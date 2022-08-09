@@ -1,5 +1,5 @@
-# Python implementation of a peer-to-peer decentralized network
-This project provides a basic and simple peer-to-peer decentralized network classes (framework) to build your own network. Basic functionality of the nodes and the connection to and from these  nodes has been implemented. Application specific functionality is up to you to implement yourself. The intention of the module is to provide a good basis, without specific implementation, so everyone is really free to implement like they would like to do.
+# PythonによるP2P分散型ネットワークの実装
+このプロジェクトは、あなた自身のネットワークを構築するための基本的でシンプルなP2P分散型ネットワーククラス（フレームワーク）を提供します。ノードの基本機能と、そのノードとの接続を実装しています。 アプリケーション固有の機能については、ご自身で実装していただくことになります。 このライブラリの意図は、具体的な実装を伴わない、シンプルな機能を提供することであり、誰もがやりたいように自由に実装することができます。
 
 You can use the project to implement a peer-to-peer decentralized network application, like Bitcoin or file sharing applications. I have used this software to provide my students, during a technical introduction to Blockchain, basic functionality. So, they were able to focus on how they would like to implement the Blockchain functionality and protocols. Without some direction from my side. Some of the students have used the code base to implement their application in C# or C++, for example. That is the freedom I would like to give to everyone.
 
